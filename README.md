@@ -5,7 +5,6 @@
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning **.NET Technologies** (ASP.NET Core, Entity Framework, MVC)
 - 💬 Ask me about **React, Node.js, MongoDB, REST APIs, JavaScript**
 - 📫 How to reach me:  
   📧 [raghunandansingh8000@gmail.com](mailto:raghunandansingh8000@gmail.com)  
